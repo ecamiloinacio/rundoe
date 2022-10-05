@@ -1,0 +1,11 @@
+{
+    "exp_id" : "101_hello_world",
+    "exp_desc" : "This is a simple Hello World like RunDOE configuration file.",
+    "exp_repls" : 5,
+    "trial_repts" : 3,
+    "cmd" : "echo",
+    "factors" : [
+        { "name" : "f1", "arg" : "", "values" : ["Hello World"] },
+        { "name" : "f2", "arg" : "", "values" : [ 1, 2, 3 ] }
+    ]
+}
