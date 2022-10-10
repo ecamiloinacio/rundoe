@@ -7,5 +7,6 @@
     "factors" : [
         { "name" : "f1", "arg" : "", "values" : ["Hello World"] },
         { "name" : "f2", "arg" : "", "values" : [ 1, 2, 3 ] }
-    ]
+    ],
+    "quiet" : false
 }

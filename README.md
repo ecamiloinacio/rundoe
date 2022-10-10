@@ -1,2 +1,2 @@
 # rundoe
-A tool for designing and executing computational experiments.
+A tool for executing computational experiments following a factorial design.
